@@ -15,7 +15,7 @@
  2. Ir al gimnasio
     ## Idiomas que hablo 
    *Español
-    *Ingles
+   *Ingles
     ## Foto Artista 
    [ https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpredigersoledad%2Fanuel-aa%2F&psig=AOvVaw0vxG3UxociZg7KuSop_2aN&ust=1757764580655000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiOsr2V048DFQAAAAAdAAAAABAL]
    ## Enlace al aula virtual de python 
