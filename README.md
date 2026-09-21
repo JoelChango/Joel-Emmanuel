@@ -1,7 +1,7 @@
-# CFGM
-## 2º SMR
+# GDP
+## 1º DAW
 ## Nombre y apellido
- Joel Emmanuel Chango
+ Joel Emmanuel Chango Barzola
  ## Correo electronico
  joel.chango@educa.madrid.org
   ## Una lista no numerada de intereses relacionados con la informática
@@ -9,7 +9,7 @@
  2.Desarrollo de aplicaciones web
  3.Programacion
  ## Experiencia laboral
- Las practicas de 4ºESO
+ Las practicas de 4ºESO y practicas de 2ºSMR
   ## Una lista numerada de tus aficiones
  1. Pasar tiempo con mi familia
  2. Ir al gimnasio
@@ -20,8 +20,8 @@
     ## Foto Artista 
     
    [ https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpredigersoledad%2Fanuel-aa%2F&psig=AOvVaw0vxG3UxociZg7KuSop_2aN&ust=1757764580655000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiOsr2V048DFQAAAAAdAAAAABAL]
-   ## Enlace al aula virtual de python 
-  [ https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/mod/assign/view.php?id=12832 ]
+   ## Enlace al aula virtual de Java 
+ [ [ https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/mod/assign/view.php?id=12832 ]](https://aulavirtual33.educa.madrid.org/ies.rosachacel.madrid/course/view.php?id=449)
 ## Tabla con el horario 
 Lunes|Martes|Miercoles|Jueves|Viernes
 | ---|---|---|---|---|
