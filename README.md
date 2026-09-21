@@ -11,7 +11,7 @@
  ## Experiencia laboral
  Las practicas de 4ºESO
   ## Una lista numerada de tus aficiones
- 1. Pasar tiempo con mi novia
+ 1. Pasar tiempo con mi familia
  2. Ir al gimnasio
     ## Idiomas que hablo 
    *Español
@@ -25,11 +25,11 @@
 ## Tabla con el horario 
 Lunes|Martes|Miercoles|Jueves|Viernes
 | ---|---|---|---|---|
-|SOR |SOR|SOR|SERV RED|SERV RED
-|SOR |SOR|SOR|SERV RED|ITI EMPLE
-|AP WEB|INGLES|SERV RED|PYTHON|SEGURIDAD
-|PYTHON|SOSTEM|SERV RED|AP WEB|SEGURIDAD
-|PYTHON|SERV RED|DIGITALIZACION|SOR|AP WEB
-|SEGURIDAD|SERV RED|ITI EMPLE|INGLES|AP WEB
+|Entorno de Desarrollo |Sistemas Informaticos|Sistemas Informaticos|Sistemas Informaticos|Lenguaje de Marcas
+|Entorno de Desarrollo |Sistemas Informaticos|Sistemas Informaticos|Sistemas Informaticos|Ipe
+|Lenguaje de Marcas|Base de Datos|Programacion|Programacion|Ipe
+|Lenguaje de Marcas|Base de Datos|Programacion|Programacion|Programacion
+|Base de Datos|Programacion|Programacion|Base de Datos|Programacion
+|Base de Datos|Programacion|Ipe|Base de Datos|Programacion
     
  
